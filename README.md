@@ -9,7 +9,7 @@
 Some of the dataset we used are listed below:
   -> [FaceForensics++](https://github.com/ondyari/FaceForensics)
   -> [Celeb-DF](https://github.com/yuezunli/celeb-deepfakeforensics)
-  -> [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge/data)
+  -> [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge/data) 
 ## Preprocessing
   -> Load the dataset
   -> Split the video into frames
