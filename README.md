@@ -12,7 +12,7 @@ Some of the dataset we used are listed below:
   -> [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge/data) 
 ## Preprocessing
   -> Load the dataset
-  -> Split the video into frames
+  -> Split the video into frames 
   -> crop the face from each frame
   -> save the face cropped video
 ## Model and training
