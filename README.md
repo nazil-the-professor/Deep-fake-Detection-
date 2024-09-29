@@ -4,7 +4,7 @@
 
 ### Note: We Recommend using [Google Colab](https://colab.research.google.com/)  for running the above code.     
      
-  
+   
  ## Dataset  
 Some of the dataset we used are listed below:  
   -> [FaceForensics++](https://github.com/ondyari/FaceForensics)    
