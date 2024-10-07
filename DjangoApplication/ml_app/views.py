@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect
 import torch
 import torchvision
-from torchvision import transforms, models
+from torchvision import transforms, models 
 from torch.utils.data import DataLoader
 from torch.utils.data.dataset import Dataset
 import os
