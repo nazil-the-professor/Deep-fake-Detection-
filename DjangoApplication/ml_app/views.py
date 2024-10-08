@@ -6,7 +6,7 @@ from torch.utils.data import DataLoader
 from torch.utils.data.dataset import Dataset 
 import os 
 import numpy as np   
-import cv2
+import cv2 
 import matplotlib.pyplot as plt 
 import face_recognition 
 from torch.autograd import Variable
