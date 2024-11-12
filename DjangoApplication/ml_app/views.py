@@ -9,7 +9,7 @@ import numpy as np
 import cv2        
 import matplotlib.pyplot as plt    
 import face_recognition    
-from torch.autograd import Variable 
+from torch.autograd import Variable  
 import time   
 import sys
 from torch import nn
